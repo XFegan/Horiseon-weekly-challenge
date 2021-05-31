@@ -8,6 +8,4 @@ I also took the time to leave comments through the index.html and CSS file to ex
 
  ![screenshot 1 of website](./assets/images/screenshot.png)
 
- ![screenshot 2 of website](./assets/images/screenshot-2.png)
-
 https://xfegan.github.io/Horiseon-weekly-challenge/
