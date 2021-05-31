@@ -6,6 +6,7 @@ What I did to help the website began with changing the div elements to the corre
 
 I also took the time to leave comments through the index.html and CSS file to explain the correct selectors and what was consolidated to make the file easier to work with.
 
- ![screenshot of website](./assets/images/screenshot.png) 
+ ![screenshot 1 of website](./assets/images/screenshot.png)
+![screenshot 2 of website](./assets/images/screenshot-2.png)
 
 https://xfegan.github.io/Horiseon-weekly-challenge/
