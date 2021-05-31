@@ -1,4 +1,4 @@
-#Horiseon Weekly Challenge
+# Horiseon Weekly Challenge
 
 This website is used to market the company and what the best ways to do so. Such as, through social media marketing, brand awarness, SEO, etc. 
 
